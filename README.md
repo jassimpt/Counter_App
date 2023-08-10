@@ -1,16 +1,21 @@
 # counterapp
 
-A new Flutter project.
+A Material Counter App Made By Using FLutter
+Providing Output Output Screenshots Below
 
-## Getting Started
+# Pages
+  - SplashScreen
+  - Counter Home
+# Output Screenshots
 
-This project is a starting point for a Flutter application.
+  -Splash Screen
+  
+![Screenshot_1691655998](https://github.com/jassimpt/Counter_App/assets/139531376/f0734665-46da-4f02-8a0a-47e9ca519130)
 
-A few resources to get you started if this is your first Flutter project:
+  -Counter Home
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+  ![Screenshot_1691656001](https://github.com/jassimpt/Counter_App/assets/139531376/078d693f-3f9b-4190-82cf-7b9fc36d0ee4)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Screenshot_1691656004](https://github.com/jassimpt/Counter_App/assets/139531376/4ccf493d-724b-436b-a89b-ab40169ca0b4)
+
+
